@@ -43,4 +43,4 @@ venv/lib/site-packages/sp_api/base/aws_sig_v4.py
 or in a file
 venv/lib/site-packages/sp_api/base/client.py
 
-in the _sign_request and _request methods
+in the _sign_request, __init__ and _request methods
